@@ -1,0 +1,11 @@
+body{
+    background: url(./img/cal.png) no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    backdrop-filter: blur(20px);
+  }
+  
